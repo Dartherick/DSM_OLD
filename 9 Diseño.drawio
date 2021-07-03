@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-03T14:19:58.778Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="90D2RdRYXDbfSd0RihnY" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-03T21:37:04.689Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="cnHLd7hvnniYtg4r6B_H" version="14.8.3" type="github">
   <diagram id="gHAmOwAejJrvvXvZ88qO" name="Page-1">
-    <mxGraphModel dx="-832" dy="1586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="186" dy="1794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -183,13 +183,58 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l6ilXpsC3v9ZhkBVoFBw-77" value="Comprimir desechos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="3276" y="64" width="110" height="30" as="geometry" />
+          <mxGeometry x="3269" y="66" width="124" height="34" as="geometry" />
         </mxCell>
         <mxCell id="l6ilXpsC3v9ZhkBVoFBw-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l6ilXpsC3v9ZhkBVoFBw-83" target="l6ilXpsC3v9ZhkBVoFBw-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l6ilXpsC3v9ZhkBVoFBw-83" value="Recibir energia" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="3140" y="-143.5" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l6ilXpsC3v9ZhkBVoFBw-91" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;fillColor=#1ba1e2;" edge="1" parent="1" source="l6ilXpsC3v9ZhkBVoFBw-92" target="l6ilXpsC3v9ZhkBVoFBw-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l6ilXpsC3v9ZhkBVoFBw-92" value="Detectar objeto obstruido" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="3776" y="-111" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l6ilXpsC3v9ZhkBVoFBw-93" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;fillColor=#1ba1e2;" edge="1" parent="1" source="l6ilXpsC3v9ZhkBVoFBw-94" target="l6ilXpsC3v9ZhkBVoFBw-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l6ilXpsC3v9ZhkBVoFBw-94" value="Procesar el estado" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="3945" y="-111" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l6ilXpsC3v9ZhkBVoFBw-95" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;strokeColor=#000000;" edge="1" parent="1" source="l6ilXpsC3v9ZhkBVoFBw-97" target="l6ilXpsC3v9ZhkBVoFBw-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l6ilXpsC3v9ZhkBVoFBw-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="l6ilXpsC3v9ZhkBVoFBw-97" target="l6ilXpsC3v9ZhkBVoFBw-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l6ilXpsC3v9ZhkBVoFBw-97" value="Confirmar estado" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="4100" y="-111" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l6ilXpsC3v9ZhkBVoFBw-98" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;fillColor=#1ba1e2;" edge="1" parent="1" source="l6ilXpsC3v9ZhkBVoFBw-99" target="l6ilXpsC3v9ZhkBVoFBw-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l6ilXpsC3v9ZhkBVoFBw-99" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Objeto obstruido&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;align=right;" vertex="1" parent="1">
+          <mxGeometry x="3620" y="-111" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l6ilXpsC3v9ZhkBVoFBw-100" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;strokeColor=#000000;" edge="1" parent="1" source="l6ilXpsC3v9ZhkBVoFBw-101" target="l6ilXpsC3v9ZhkBVoFBw-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l6ilXpsC3v9ZhkBVoFBw-101" value="Generar señales de estado" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="4290" y="-113.5" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="l6ilXpsC3v9ZhkBVoFBw-102" value="&lt;font color=&quot;#000000&quot;&gt;Indicadores&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4478" y="-111" width="69" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l6ilXpsC3v9ZhkBVoFBw-103" value="&lt;font color=&quot;#000000&quot;&gt;Sistema de seguridad&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4478" y="-29.25" width="69" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l6ilXpsC3v9ZhkBVoFBw-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="l6ilXpsC3v9ZhkBVoFBw-105" target="l6ilXpsC3v9ZhkBVoFBw-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l6ilXpsC3v9ZhkBVoFBw-105" value="Generar señales para el sistema de seguridad" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="4290" y="-36.5" width="120" height="44.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
