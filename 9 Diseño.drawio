@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-04T20:39:48.007Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="LdQxeEsU4QIv6w8RK1D4" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-04T20:40:08.955Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="81peRr441H8Skf5N-lBy" version="14.8.4" type="github">
   <diagram id="gHAmOwAejJrvvXvZ88qO" name="Page-1">
     <mxGraphModel dx="1466" dy="2489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -56,11 +56,6 @@
               <mxPoint x="3888" y="-484" />
               <mxPoint x="3888" y="-464" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qktzXAylUwz1zR3WzPY1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="l6ilXpsC3v9ZhkBVoFBw-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3530" y="-590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l6ilXpsC3v9ZhkBVoFBw-13" value="Distribuir energia" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
