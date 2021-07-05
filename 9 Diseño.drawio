@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T19:04:24.297Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="m6tdz3Vw-oLMXDJQxOTO" version="14.8.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-07-05T19:45:46.429Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="b6e_H9SILK3LkGLINRxw" version="14.8.4" type="github" pages="2">
   <diagram id="gHAmOwAejJrvvXvZ88qO" name="Esquema de producto">
     <mxGraphModel dx="384" dy="1626" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -870,6 +870,12 @@
         </mxCell>
         <mxCell id="tGeyQoubbLAMKpfzQbqh-0" value="Bloque de Clasificación de Desechos" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#CC0066;" vertex="1" parent="Q37TDUag0iEtcrwCX5s7-1">
           <mxGeometry x="670" y="495" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d7XreA9s0dYBCvJogG2z-0" value="Bloque de Energía" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFF33;" vertex="1" parent="Q37TDUag0iEtcrwCX5s7-1">
+          <mxGeometry x="480" y="365" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ufWYvbuAKs63M7FnV2gm-0" value="Bloque de Seguridad&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FF66FF;" vertex="1" parent="Q37TDUag0iEtcrwCX5s7-1">
+          <mxGeometry x="430" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
