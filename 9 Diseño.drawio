@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T00:08:55.798Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="HUfivTZDkeuoEfhooy3d" version="14.8.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-07-12T13:01:08.758Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="p0LhVOZ6pDegK65sB-qP" version="14.6.13" type="github" pages="3">
   <diagram id="gHAmOwAejJrvvXvZ88qO" name="Esquema de producto">
-    <mxGraphModel dx="610" dy="1626" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="530" dy="1668" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -109,57 +109,6 @@
         </mxCell>
         <mxCell id="l6ilXpsC3v9ZhkBVoFBw-25" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px&quot;&gt;Energia electrica&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=none;strokeColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="2645.5" y="-288.5" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="l6ilXpsC3v9ZhkBVoFBw-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=24;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="l6ilXpsC3v9ZhkBVoFBw-27" target="l6ilXpsC3v9ZhkBVoFBw-31" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="4075.862068965517" y="-748.6379310344828" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="4055" y="-725.5" />
-              <mxPoint x="4055" y="-713.5" />
-              <mxPoint x="4055" y="-704.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="l6ilXpsC3v9ZhkBVoFBw-27" value="&lt;font color=&quot;#000000&quot;&gt;Señales de control&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=none;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="3924" y="-740" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="l6ilXpsC3v9ZhkBVoFBw-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;" parent="1" source="l6ilXpsC3v9ZhkBVoFBw-29" target="l6ilXpsC3v9ZhkBVoFBw-31" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="4055" y="-683.5" />
-              <mxPoint x="4055" y="-704.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="l6ilXpsC3v9ZhkBVoFBw-29" value="&lt;font color=&quot;#000000&quot;&gt;Señales de seguridad&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=none;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="3910" y="-699" width="124" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="l6ilXpsC3v9ZhkBVoFBw-30" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" parent="1" source="l6ilXpsC3v9ZhkBVoFBw-31" target="l6ilXpsC3v9ZhkBVoFBw-33" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="l6ilXpsC3v9ZhkBVoFBw-31" value="Recibir señal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="4095" y="-719.5" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="l6ilXpsC3v9ZhkBVoFBw-32" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" parent="1" source="l6ilXpsC3v9ZhkBVoFBw-33" target="l6ilXpsC3v9ZhkBVoFBw-35" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="l6ilXpsC3v9ZhkBVoFBw-33" value="Analizar señal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="4285" y="-719.5" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="l6ilXpsC3v9ZhkBVoFBw-34" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" parent="1" source="l6ilXpsC3v9ZhkBVoFBw-35" target="l6ilXpsC3v9ZhkBVoFBw-37" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="l6ilXpsC3v9ZhkBVoFBw-35" value="Ejecutar funcion o accion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="4475" y="-719.5" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="l6ilXpsC3v9ZhkBVoFBw-36" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" parent="1" source="l6ilXpsC3v9ZhkBVoFBw-37" target="l6ilXpsC3v9ZhkBVoFBw-38" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="l6ilXpsC3v9ZhkBVoFBw-37" value="Generar indicadores de energia" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="4665" y="-719.5" width="113" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="l6ilXpsC3v9ZhkBVoFBw-38" value="&lt;font color=&quot;#000000&quot;&gt;Indicadores de energia&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=none;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="4842" y="-719.5" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l6ilXpsC3v9ZhkBVoFBw-44" value="Disipar Sonido" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#2D7600;fontColor=#ffffff;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1643.5" y="-109" width="110" height="30" as="geometry" />
@@ -3209,7 +3158,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="33Pvl2aJffrkL21pjBSN" name="Interacciones">
-    <mxGraphModel dx="665" dy="413" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1730" dy="868" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="Q37TDUag0iEtcrwCX5s7-0" />
         <mxCell id="Q37TDUag0iEtcrwCX5s7-1" parent="Q37TDUag0iEtcrwCX5s7-0" />
@@ -3528,6 +3477,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="EpHyWPnxfmbg57pR4CLt" name="P&amp;ID">
+    <mxGraphModel dx="2966" dy="1489" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="jWotOSgjW6P8HWNvkEu6-0" />
+        <mxCell id="jWotOSgjW6P8HWNvkEu6-1" parent="jWotOSgjW6P8HWNvkEu6-0" />
       </root>
     </mxGraphModel>
   </diagram>
